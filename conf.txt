@@ -1,0 +1,9 @@
+receptor = 2hi4.pdbqt
+ligand =Quercetin.pdbqt 
+center_x=5.524 
+center_y=21.536 
+center_z=20.166
+
+size_x=74
+size_y=90
+size_z=80 

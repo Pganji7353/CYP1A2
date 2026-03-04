@@ -1,0 +1,188 @@
+Target name,Confidence,ChEMBL id
+Carbonic anhydrase III,0.9697,CHEMBL2885
+Cytochrome P450 1A2,0.9127,CHEMBL3356
+Serine/threonine-protein kinase NEK6,0.8425,CHEMBL4309
+Phosphatidylinositol-4-phosphate 5-kinase type-1 gamma,0.8332,CHEMBL1908383
+Cytochrome P450 1B1,0.7512,CHEMBL4878
+Cytochrome P450 1A1,0.7436,CHEMBL2231
+Protein kinase N1,0.7435,CHEMBL3384
+Activin receptor type-2B,0.7396,CHEMBL5466
+Serine/threonine-protein kinase PFTAIRE-2,0.7333,CHEMBL5856
+Cytochrome P450 2B6,0.7129,CHEMBL4729
+Eukaryotic translation initiation factor 4H,0.6561,CHEMBL1293274
+Cyclin-dependent kinase 13,0.6518,CHEMBL1795192
+Serine/threonine-protein kinase 32A,0.6329,CHEMBL6150
+Cell division cycle 2-like protein kinase 6,0.6319,CHEMBL6002
+Cytochrome P450 2C9,0.6134,CHEMBL3397
+NUAK family SNF1-like kinase 1,0.6108,CHEMBL5784
+Rhodopsin kinase,0.5944,CHEMBL5607
+Serine/threonine-protein kinase PCTAIRE-3,0.5672,CHEMBL5316
+Serine/threonine-protein kinase 35,0.5628,CHEMBL5651
+Serine/threonine-protein kinase NEK2,0.5557,CHEMBL3835
+Carbonic anhydrase IV,0.5267,CHEMBL3729
+Estrogen receptor alpha,0.5229,CHEMBL206
+Dual serine/threonine and tyrosine protein kinase,0.52,CHEMBL1908386
+Ribosomal protein S6 kinase alpha 3,0.508,CHEMBL2345
+Serine/threonine-protein kinase VRK2,0.5065,CHEMBL1649059
+Serine/threonine-protein kinase PFTAIRE-1,0.4979,CHEMBL6162
+Cytochrome P450 2C19,0.4968,CHEMBL3622
+Dual specificity mitogen-activated protein kinase kinase 3,0.4916,CHEMBL2109
+Telomerase reverse transcriptase,0.4851,CHEMBL2916
+Casein kinase I alpha,0.4754,CHEMBL2793
+Protein kinase C nu,0.465,CHEMBL2595
+Estrogen receptor beta,0.4647,CHEMBL242
+Receptor tyrosine-protein kinase erbB-3,0.4472,CHEMBL5838
+Polyadenylate-binding protein 1,0.4443,CHEMBL1293286
+Serine/threonine-protein kinase DCLK1,0.4354,CHEMBL5683
+Plectin,0.4302,CHEMBL1293240
+Hematopoietic cell protein-tyrosine phosphatase 70Z-PEP,0.4221,CHEMBL2889
+Mannose-6-phosphate isomerase,0.4154,CHEMBL2758
+DNA-(apurinic or apyrimidinic site) lyase,0.4106,CHEMBL5619
+Phosphatidylinositol-5-phosphate 4-kinase type-2 gamma,0.4085,CHEMBL1770034
+Phosphatidylinositol-4-phosphate 3-kinase C2 domain-containing subunit gamma,0.4079,CHEMBL1163120
+Cytochrome P450 3A4,0.4079,CHEMBL340
+Serine/threonine-protein kinase MRCK-A,0.4012,CHEMBL4516
+CaM kinase IV,0.4008,CHEMBL2494
+Cytochrome P450 19A1,0.3997,CHEMBL1978
+Microtubule-associated protein tau,0.3962,CHEMBL1293224
+Dual specificity mitogen-activated protein kinase kinase 4,0.388,CHEMBL2897
+Casein kinase I isoform alpha-like,0.3871,CHEMBL5520
+Casein kinase I gamma 1,0.3781,CHEMBL2426
+Tyrosine-protein kinase Srms,0.3727,CHEMBL5703
+Serine/threonine-protein kinase MRCK beta,0.3716,CHEMBL5052
+TGF-beta receptor type II,0.3581,CHEMBL4267
+Mitogen-activated protein kinase 7,0.3542,CHEMBL5332
+Serine/threonine-protein kinase receptor R3,0.3485,CHEMBL5311
+Neurotrophic tyrosine kinase receptor type 2,0.338,CHEMBL4898
+Serine/threonine-protein kinase TNNI3K,0.338,CHEMBL5260
+Xanthine dehydrogenase,0.3305,CHEMBL1929
+Serine/threonine-protein kinase ICK,0.3269,CHEMBL1163126
+MAP kinase ERK1,0.3152,CHEMBL3385
+Serine/threonine-protein kinase PCTAIRE-2,0.3137,CHEMBL5790
+Tyrosine-protein kinase receptor FLT3,0.3128,CHEMBL1974
+Cytochrome P450 2D6,0.3117,CHEMBL289
+Induced myeloid leukemia cell differentiation protein Mcl-1,0.305,CHEMBL4361
+Carbonic anhydrase VI,0.2981,CHEMBL3025
+DNA topoisomerase II alpha,0.2954,CHEMBL1806
+Arachidonate 5-lipoxygenase,0.2886,CHEMBL215
+Serine/threonine-protein kinase PLK1,0.2829,CHEMBL3024
+Mitogen-activated protein kinase kinase kinase 3,0.282,CHEMBL5970
+Cyclin-dependent kinase 9,0.2674,CHEMBL3116
+Dual specificity mitogen-activated protein kinase kinase 7,0.2662,CHEMBL3530
+Cyclin-dependent kinase 5,0.2656,CHEMBL4036
+Tyrosyl-DNA phosphodiesterase 1,0.2624,CHEMBL1075138
+Tankyrase-1,0.2453,CHEMBL6164
+Beta amyloid A4 protein,0.2443,CHEMBL2487
+Acetylcholinesterase,0.2333,CHEMBL220
+Arachidonate 15-lipoxygenase,0.233,CHEMBL2903
+Mitogen-activated protein kinase kinase kinase 10,0.2325,CHEMBL2873
+Tyrosine-protein kinase receptor UFO,0.2257,CHEMBL4895
+Carbonic anhydrase XIV,0.2256,CHEMBL3510
+CaM-kinase kinase alpha,0.2188,CHEMBL5256
+Heat shock 70 kDa protein 1,0.2138,CHEMBL5460
+Aldose reductase,0.2109,CHEMBL1900
+Serine/threonine-protein phosphatase,0.2034,CHEMBL1293265
+Cyclin-dependent kinase 4,0.203,CHEMBL331
+Carbonic anhydrase VII,0.2015,CHEMBL2326
+Dual specificity phosphatase Cdc25A,0.2002,CHEMBL3775
+Casein kinase I gamma 2,0.2,CHEMBL2543
+Mitogen-activated protein kinase 15,0.1991,CHEMBL5198
+Dual specificity protein kinase CLK3,0.1986,CHEMBL4226
+Serine/threonine-protein kinase DCLK3,0.1923,CHEMBL6123
+Mitogen-activated protein kinase kinase kinase 7,0.1846,CHEMBL5776
+Aldehyde dehydrogenase,0.1788,CHEMBL1935
+CaM kinase II alpha,0.1717,CHEMBL4147
+CaM-kinase kinase beta,0.1688,CHEMBL5284
+Carbonic anhydrase XIII,0.1523,CHEMBL3912
+Dual specificity phosphatase Cdc25B,0.1475,CHEMBL4804
+Poly [ADP-ribose] polymerase 2,0.1399,CHEMBL5366
+Serine/threonine-protein kinase 17B,0.1398,CHEMBL3980
+Histone acetyltransferase p300,0.1388,CHEMBL3784
+ALK tyrosine kinase receptor,0.1329,CHEMBL4247
+Rap guanine nucleotide exchange factor 4,0.1283,CHEMBL2029198
+Dual specificity phosphatase Cdc25C,0.1277,CHEMBL2378
+DNA topoisomerase I,0.1266,CHEMBL1781
+Glyceraldehyde-3-phosphate dehydrogenase liver,0.1257,CHEMBL2284
+Citron Rho-interacting kinase,0.1256,CHEMBL5579
+Protein-tyrosine phosphatase 1B,0.1227,CHEMBL335
+Protein kinase C gamma,0.1204,CHEMBL2938
+Carbonic anhydrase VA,0.1198,CHEMBL4789
+Insulin-like growth factor I receptor,0.1194,CHEMBL1957
+Tyrosyl-DNA phosphodiesterase 2,0.1171,CHEMBL2169736
+Testis-specific androgen-binding protein,0.1168,CHEMBL3305
+Mitogen-activated protein kinase kinase kinase 2,0.1157,CHEMBL5914
+Quinone reductase 1),0.1133,CHEMBL3623
+Dual specificty protein kinase CLK1,0.107,CHEMBL4224
+Protein-tyrosine phosphatase 1C,0.1028,CHEMBL3166
+Protein kinase C eta,0.1023,CHEMBL3616
+Heat shock protein HSP 90-alpha,0.0986,CHEMBL3880
+Carbonic anhydrase XII,0.0961,CHEMBL3242
+TNF-alpha,0.0958,CHEMBL1825
+Aldo-keto reductase family 1 member C2,0.0957,CHEMBL5847
+Adaptor-associated kinase,0.0934,CHEMBL3830
+Monoamine oxidase A,0.0933,CHEMBL1951
+MAP kinase signal-integrating kinase 2,0.0924,CHEMBL4204
+Homeodomain-interacting protein kinase 3,0.0924,CHEMBL4577
+Dual-specificity tyrosine-phosphorylation regulated kinase 2,0.0907,CHEMBL4376
+"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",0.0899,CHEMBL2331053
+Carbonic anhydrase IX,0.0879,CHEMBL3594
+Serine/threonine-protein kinase haspin,0.0843,CHEMBL1075163
+Activin receptor type-1,0.0839,CHEMBL5903
+PI3-kinase p110-gamma subunit,0.0799,CHEMBL3267
+Endothelin receptor ET-A,0.0777,CHEMBL252
+Ephrin type-A receptor 5,0.0768,CHEMBL3987
+Bone morphogenetic protein receptor type-1B,0.0754,CHEMBL5476
+Nuclear receptor subfamily 4 group A member 1,0.0751,CHEMBL1293229
+Low molecular weight phosphotyrosine protein phosphatase,0.0742,CHEMBL4903
+Heat shock cognate 71 kDa protein,0.0718,CHEMBL1275223
+Carbonic anhydrase I,0.0711,CHEMBL261
+Dual specificity protein phosphatase 3,0.0664,CHEMBL2635
+Estradiol 17-beta-dehydrogenase 1,0.0661,CHEMBL3181
+Monoamine oxidase B,0.065,CHEMBL2039
+Estrogen-related receptor alpha,0.0635,CHEMBL3429
+Estrogen-related receptor beta,0.0635,CHEMBL3751
+Serine/threonine-protein kinase 17A,0.0603,CHEMBL4525
+MAP kinase ERK2,0.0551,CHEMBL4040
+Homeodomain-interacting protein kinase 4,0.0542,CHEMBL1075167
+"AMP-activated protein kinase, alpha-1 subunit",0.0534,CHEMBL4045
+Beta-secretase 1,0.0501,CHEMBL4822
+PAS domain-containing serine/threonine-protein kinase,0.0474,CHEMBL6054
+Protein-tyrosine phosphatase 2C,0.0464,CHEMBL3864
+Eukaryotic translation initiation factor 2-alpha kinase 1,0.0454,CHEMBL6029
+Dual-specificity tyrosine-phosphorylation regulated kinase 1A,0.0452,CHEMBL2292
+Butyrylcholinesterase,0.0417,CHEMBL1914
+"Heat shock protein 75 kDa, mitochondrial",0.0413,CHEMBL1075132
+Matrix metalloproteinase 12,0.0408,CHEMBL4393
+Myotonin-protein kinase,0.0408,CHEMBL5320
+Lysine-specific histone demethylase 1,0.0376,CHEMBL6136
+Mitogen-activated protein kinase kinase kinase 5,0.0341,CHEMBL5285
+Phospholipase A2 group IIA,0.034,CHEMBL3474
+Quinone reductase 2,0.0336,CHEMBL3959
+Carbonic anhydrase II,0.0302,CHEMBL205
+DNA-dependent protein kinase,0.0283,CHEMBL3142
+Serine/threonine-protein kinase WEE1,0.0247,CHEMBL5491
+Kinesin-like protein 1,0.0244,CHEMBL4581
+Glycogen synthase kinase-3 alpha,0.024,CHEMBL2850
+Macrophage migration inhibitory factor,0.0214,CHEMBL2085
+Interleukin-8 receptor A,0.021,CHEMBL4029
+Protein kinase C iota,0.0196,CHEMBL2598
+Motilin receptor,0.0175,CHEMBL2203
+Serine/threonine-protein kinase D2,0.017,CHEMBL4900
+Serine/threonine-protein kinase ULK2,0.0168,CHEMBL5435
+Carboxylesterase 2,0.0158,CHEMBL3180
+NUAK family SNF1-like kinase 2,0.0148,CHEMBL5698
+D-amino-acid oxidase,0.014,CHEMBL5485
+Serine/threonine-protein kinase Aurora-B,0.0127,CHEMBL2185
+Carbonic anhydrase VB,0.0116,CHEMBL3969
+Acyl coenzyme A:cholesterol acyltransferase,0.0097,CHEMBL2265
+Cyclooxygenase-2,0.0078,CHEMBL230
+Phospholipase A2 group V,0.0078,CHEMBL4323
+CaM kinase II beta,0.0074,CHEMBL4121
+MAP kinase-activated protein kinase 2,0.0073,CHEMBL2208
+Focal adhesion kinase 1,0.0063,CHEMBL2695
+Serine/threonine-protein kinase WNK2,0.0061,CHEMBL5639
+Protein kinase C zeta,0.0057,CHEMBL3438
+Steryl-sulfatase,0.0054,CHEMBL3559
+Neuronal acetylcholine receptor protein alpha-7 subunit,0.0053,CHEMBL2492
+Catechol O-methyltransferase,0.0052,CHEMBL2023
+L-lactate dehydrogenase A chain,0.0031,CHEMBL4835
